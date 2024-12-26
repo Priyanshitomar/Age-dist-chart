@@ -1,4 +1,4 @@
-# Prodigy InfoTech Data Science Internship Task 1:
+# age-dist-chart:
 <br>
 <img src="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/ds1.png"   >
 
